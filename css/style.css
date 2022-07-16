@@ -1,0 +1,113 @@
+.hidden { 
+    display: none; 
+}
+
+h1 {
+    text-align: center;
+    color:rgb(166, 254, 255);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#js-clock {
+    color: rgb(82, 128, 226);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    font-size:  90px;
+    color:rgb(40, 195, 197);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#login-form{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#login-form input:nth-child(1){
+    width:200px;
+    height:20px;
+    font-size:20px;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#login-form input:nth-child(2){
+    width:60px;
+    height:40px;
+    font-size:20px;
+    padding-top: 8px;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent;
+    border: none;
+    color: #FFFFFF;
+
+}
+
+#greeting {
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#todo-form{
+    text-align: center;
+   font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+#todo-form input{
+    width:300px;
+    height:20px;
+    font-size:20px;
+    text-align: center;
+     font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    margin-top: 60px;
+}
+
+#todo-list{
+    text-align: center;
+    color:rgb(80, 217, 252);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    height: 200px;
+}
+
+
+#quote {
+    text-align: center;
+    color:rgb(10, 9, 9);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
+
+#weather {
+    text-align: center;
+    color:rgb(166, 254, 255);
+    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+}
+
+body {
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
